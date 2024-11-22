@@ -1,2 +1,2 @@
 # NestJs-Basic
-Basic Nest Backend Services
+Basic Nest JS Backend Services
